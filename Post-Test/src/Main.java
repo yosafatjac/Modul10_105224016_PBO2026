@@ -8,7 +8,7 @@ public class Main {
 
         jadwalFilm.put("F01", new Film("F01", "Avengers: Endgame", 50000));
         jadwalFilm.put("F02", new Film("F02", "Interstellar", 45000));
-        jadwalFilm.put("F03", new Film("F03", "Jumbo", 40000));
+        jadwalFilm.put("F03", new Film("F03", "Zootopia 2", 40000));
 
         System.out.println("\nJadwal Film Hari Ini");
         for (Film film : jadwalFilm.values()) {
